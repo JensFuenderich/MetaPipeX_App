@@ -1,0 +1,1 @@
+This tabular codebook serves to inform the abbreviations used in this shiny app. If you are trying to understand a column in the data frame, just consult the appropriate line in the codebook. If you are trying to look for the abbreviation of a term, eg. standard deviation, just type it in the Search field and all lines containing that word will be displayed.
